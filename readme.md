@@ -6,4 +6,4 @@ Bu Python programı,Uzaydaki iki nokta arasındaki Öklid mesafesini hesaplar. P
 
 This repository has been prepared for the **_Python Uygulama 2_** task of the **_IBM CyberStart_** course given by Kodluyoruz.
 
-### **Thanks to the [Kodluyoruz Team](https://www.kodluyoruz.org/) team.**
+### **Thanks to the [Kodluyoruz](https://www.kodluyoruz.org/) team.**
